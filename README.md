@@ -12,6 +12,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgun2475%2Fhit-counter&count_bg=%230DD507&title_bg=%23A1B3BC&icon=linkedin.svg&icon_color=%23E7E7E7&title=GUEST&edge_flat=false"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun2475&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img src="https://img.shields.io/badge/DP--900-3776AB?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"></a>
 <!--
 **gun2475/gun2475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
