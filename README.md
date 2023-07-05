@@ -1,5 +1,3 @@
-### Let me intruduce myself.
-"힙합은 계란이다."
 
 🛠 <b>I’m currently learning</b> 🛠
 
